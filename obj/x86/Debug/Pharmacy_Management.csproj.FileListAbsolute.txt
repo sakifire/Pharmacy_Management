@@ -1,0 +1,44 @@
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\bin\Debug\Pharmacy_Management.exe.config
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\obj\x86\Debug\Pharmacy_Management.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe.config
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.pdb
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\bin\Debug\itextsharp.dll
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\bin\Debug\System.Data.Linq.dll
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_Approve.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_BanHang.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_CapnhatKH.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_DangNhap.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_KhachHang.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_LoaiSP.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_Main.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_SanPham.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Fm_UserManage.resources
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.exe
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.pdb
+C:\Users\dell\Desktop\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_NhapHang.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe.config
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.exe
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.pdb
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.pdb
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\bin\Debug\System.Data.Linq.dll
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_NhapHang.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_Approve.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_BanHang.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_CapnhatKH.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_DangNhap.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_KhachHang.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_LoaiSP.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_Main.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Frm_SanPham.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.Fm_UserManage.resources
+C:\Users\Admin\Desktop\ĐH\LT trên Windows\Pharmacy_Management\Pharmacy_Management\obj\x86\Debug\Pharmacy_Management.csproj.GenerateResource.Cache

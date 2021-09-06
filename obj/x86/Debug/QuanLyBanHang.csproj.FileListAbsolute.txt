@@ -1,0 +1,243 @@
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+E:\Test\QuanLyBanHang\WindowsFormsApplication1\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\L310\Desktop\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_User.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_User.resources
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\Đào\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_User.resources
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\1\1\Test\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+E:\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\L310\Desktop\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHang.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHang.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Contact.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\nghia\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Contact.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHang.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+C:\Users\dell\Desktop\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Contact.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHang.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+C:\Học Tập\Năm_2_HKII\Lập trình trên Windows\Tài liệu đồ án\QLBH ver 1.0\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Fm_UserManage.resources
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Users\dell\Desktop\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\Pharmacy_Management\QuanLyBanHang\obj\x86\Debug\WindowsFormsApplication1.pdb
